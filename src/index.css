@@ -136,7 +136,7 @@ img {
 	height: 5rem;
 	display: flex;
 	align-items: center;
-	border-bottom: 2px solid var(--primaryColor);
+	border-bottom: 1px solid var(--primaryColor);
 	box-shadow: var(--lightShadow);
 }
 .nav-center {
